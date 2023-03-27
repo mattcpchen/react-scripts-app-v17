@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.crypto-search {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.selected-crypto {
+  margin: 0 auto;
+  width: 400px;
+}
